@@ -1,0 +1,18 @@
+discord:
+  token: ""
+  activity: "with the whitelist"
+  channel: ""
+  role: ""
+
+messages:
+  added: "You have been added to the whitelist."
+  already-added: "You already used your whitelist."
+  no-role: "You do not have the beta role."
+  wrong-channel: "This is not the correct channel."
+
+command:
+  command: "whitelist"
+  description: "Add you to the server whitelist"
+  option:
+    option: "username"
+    description: "Your in-game name"

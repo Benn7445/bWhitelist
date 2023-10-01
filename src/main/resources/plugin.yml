@@ -1,0 +1,3 @@
+name: bWhitelist
+version: '${project.version}'
+main: me.quartz.bwhitelist.BWhitelist
